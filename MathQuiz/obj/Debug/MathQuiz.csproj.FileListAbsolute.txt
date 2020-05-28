@@ -1,0 +1,9 @@
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\MathQuiz\obj\Debug\MathQuiz.pdb

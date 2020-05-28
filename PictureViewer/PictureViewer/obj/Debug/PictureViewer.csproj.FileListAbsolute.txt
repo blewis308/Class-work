@@ -1,0 +1,9 @@
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\orang\Google Drive\2020 Spring\All Programming 2020\Software Engineering\Visual Studio C# Tutorial\Visual Studio C# Tutorial\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
